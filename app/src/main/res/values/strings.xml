@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Color Descriptor</string>
+    <string name="button_find_description">Определить цвет</string>
+
+
+    <string-array name="colors">
+        <item>Красный</item>
+        <item>Оранжевый</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+    </string-array>
+    
+    <string-array name="description_of_temp">
+        <item>Ты Красный</item>
+        <item>Ты Оранжевый. Что на самом деле означает “пиксель, не зависящий от разрешения”? Должно быть, вам известно, что пиксель — это крошечная светящаяся точка на экране. Экран состоит из сотен тысяч пикселей.</item>
+        <item>Ты Желтый</item>
+        <item>Ты Зеленый</item>
+        <item>Ты Синий</item>
+    </string-array>
+
+</resources>
